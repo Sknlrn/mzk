@@ -13,7 +13,7 @@
       "description": "Bir bot belirteci @botfather ile alınız",
       "required": true
     },
-    "BOT_NAME": {
+    "BOT_NEMA": {
       "description": "Müzik Oynatıcı Bot Adınız.",
       "required": false
     },
